@@ -8,7 +8,6 @@
 
 <p align="center">
 	<img alt="GitHub code size in bytes" src="https://img.shields.io/github/languages/code-size/ft-Laidjardim/minitalk?color=lightblue" />
-	<img alt="Number of lines of code" src="https://img.shields.io/tokei/lines/github/ft-Laidjardim/minitalk?color=critical" />
 	<img alt="Code language count" src="https://img.shields.io/github/languages/count/ft-Laidjardim/minitalk?color=yellow" />
 	<img alt="GitHub top language" src="https://img.shields.io/github/languages/top/ft-Laidjardim/minitalk?color=blue" />
 	<img alt="GitHub last commit" src="https://img.shields.io/github/last-commit/ft-Laidjardim/minitalk?color=green" />
